@@ -29,20 +29,26 @@ Project-12/
 ## 🎨 Sections
 
 ### 1. **Accueil (Home)**
+
 Welcome section introducing Athens as the capital of Greece and the birthplace of democracy, philosophy, and theater.
 
 ### 2. **À visiter (Must-Visit Places)**
+
 Showcases three major attractions:
+
 - **L'Acropole et le Parthénon**: The iconic UNESCO World Heritage site
 - **Odéon d'Hérode Atticus**: Ancient stone theater hosting modern performances
 - **Le Musée de l'Acropole**: Modern architectural marvel displaying Acropolis treasures
 
 ### 3. **Gastronomie (Gastronomy)**
+
 Features local Greek specialties:
+
 - **Moussaka**: Traditional Greek gratin with eggplant and béchamel sauce
 - Additional local dishes
 
 ### 4. **Contact**
+
 Direct email link for inquiries
 
 ## 🛠️ Technologies Used
@@ -64,6 +70,7 @@ Direct email link for inquiries
 ## 💻 Browser Support
 
 This website uses modern CSS features (OKLCH color space) and works best in:
+
 - Chrome/Edge (version 111+)
 - Firefox (version 113+)
 - Safari (version 16.4+)
